@@ -111,7 +111,7 @@
     <handled-path value="$PROJECT_DIR$/homeMaps/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -339,12 +339,16 @@
       <workItem from="1552657257937" duration="339000" />
       <workItem from="1552892913539" duration="2114000" />
       <workItem from="1552903195394" duration="14169000" />
+<<<<<<< HEAD
       <workItem from="1553092684925" duration="18822000" />
       <workItem from="1553248762821" duration="151000" />
       <workItem from="1553249150625" duration="616000" />
       <workItem from="1553497767327" duration="1767000" />
       <workItem from="1558610757182" duration="188000" />
       <workItem from="1558695294860" duration="1386000" />
+=======
+      <workItem from="1553092684925" duration="17552000" />
+>>>>>>> 702d56b38f757d98d3f0a851cf96f7a606215a0e
     </task>
     <task id="LOCAL-00001" summary="added new functionality">
       <created>1553177632730</created>
@@ -364,10 +368,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="99370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+=======
+    <option name="totallyTimeSpent" value="93992000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+>>>>>>> 702d56b38f757d98d3f0a851cf96f7a606215a0e
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
